@@ -4,7 +4,7 @@ A powerful and easy-to-use website mirroring tool based on Cloudflare Workers.
 
 ## Proxy Sites: Vercel Version
 
-https://github.com/seadfeng/vercel-proxy-sites
+https://github.com/vecnathewhisperd0/vercel-proxy
 
 ## 🌟 Key Features
 
